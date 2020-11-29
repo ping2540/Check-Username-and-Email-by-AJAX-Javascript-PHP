@@ -1,2 +1,4 @@
 # Check Username and Email by AJAX(Javascript) PHP DB(MySQL)
-This is my github profile.
+
+1. Use <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" /> for Icon.
+
