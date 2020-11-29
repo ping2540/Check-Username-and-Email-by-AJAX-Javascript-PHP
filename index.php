@@ -38,7 +38,7 @@
             <div class="form-control">
                 <label><b>Password</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="fa fa-fw fa-eye field-icon toggle-password" id="togglePassword"></span></label>
                 <br><br>
-                <input type="password" placeholder="password" id="password" maxlength="16" class="pw">
+                <input type="password" placeholder="password" id="password" maxlength="16">
                 <i class="fas fa-check-circle" style='font-size:30px'></i>
                 <i class="fas fa-exclamation-circle" style='font-size:30px'></i>
                 <small></small>
@@ -46,7 +46,7 @@
             <div class="form-control">
                 <label><b>Password check</b><span class="fa fa-fw fa-eye field-icon toggle-password1" id="togglePassword1"></span></label>
                 <br><br>
-                <input type="password" placeholder="password" id="checkpassword" maxlength="16" class="pw">
+                <input type="password" placeholder="password" id="checkpassword" maxlength="16">
                 <i class="fas fa-check-circle" style='font-size:30px'></i>
                 <i class="fas fa-exclamation-circle" style='font-size:30px'></i>
                 <small></small>
