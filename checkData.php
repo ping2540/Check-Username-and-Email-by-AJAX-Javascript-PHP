@@ -12,7 +12,6 @@ if (isset($_SERVER['CONTENT_TYPE'])) {
         $username = $arr["username"];
         $email = $arr["email"];
         $password = $arr["password"]; 
-        $sql = "SELECT * FROM users WHERE username = '$username' ";
         $sql = "INSERT INTO `api`(`Username`, `Password`, `Email`) VALUES ('$username','md5($password)','".$email."')";
         $results = mysqli_query($db, $sql);
         echo 'record';
